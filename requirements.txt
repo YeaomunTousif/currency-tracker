@@ -3,3 +3,4 @@ plotly==6.2.0
 Requests==2.32.4
 statsmodels==0.14.2
 streamlit==1.46.1
+kaleido
